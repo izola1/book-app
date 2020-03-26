@@ -30,7 +30,8 @@
 #### Setup
 
 - Installing the project dependencies
-  > Run the command belo
+  > Run the command below
+  ```shell
   $ npm install
   ```
 - Start your node server
