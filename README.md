@@ -47,9 +47,9 @@
 | ------ | --------------------------------------- | ------------------------- |
 | POST   | To add a book                           | `/api/v1/books`           |
 | GET    | To get details of all books             | `/api/v1/books`           |
-| PUT    | To update a book detail                 | `/api/v1/books/:bookId`   |
-| GET    | To get details of a particular book     | `/api/v1/books/:bookId`   |
-| DELETE | To remove a book                        | `/api/v1/books/:bookId`   |
+| PUT    | To update a book detail                 | `/api/v1/books/:id`       |
+| GET    | To get details of a particular book     | `/api/v1/books/:id`       |
+| DELETE | To remove a book                        | `/api/v1/books/:id`       |
 
 
 ## Tests
