@@ -18,20 +18,19 @@
 
 ## Installations
 
-#### Getting started
+#### Requirement
 
 - You need to have Node and NPM installed on your computer.
 - Installing [Node](node) automatically comes with npm.
 
 #### Clone
 
-- Clone this project to your local machine `git@github.com:victorsteven/Book-app-NodeJS-PostgreSQL-Travis-Coveralls-Code-Climate.git`
+- Clone this project to your local machine `https://github.com/izola1/book-app.git`
 
 #### Setup
 
 - Installing the project dependencies
-  > Run the command below
-  ```shell
+  > Run the command belo
   $ npm install
   ```
 - Start your node server
